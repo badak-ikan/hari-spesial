@@ -323,35 +323,35 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'fotbar with rakanda Bintang',
-            image: './images/photo1.jpg'
+            image: './image/photo1.jpg'
         },
         {
             text: 'IPM jaya',
-            image: './images/photo2.jpg'
+            image: './image/photo2.jpg'
         },
         {
             text: 'anjay pe muncak ta iki',
-            image: './images/photo3.jpg'
+            image: './image/photo3.jpg'
         },
         {
             text: 'fotbar keluarga KDI ta iki',
-            image: './images/photo4.jpg'
+            image: './image/photo4.jpg'
         },
         {
             text: 'gibah i sopo iku wkwk',
-            image: './images/photo5.jpg'
+            image: './image/photo5.jpg'
         },
         {
             text: 'eaaa',
-            image: './images/photo6.jpg'
+            image: './image/photo6.jpg'
         },
         {
             text: 'estetik ala ala opo iki',
-            image: './images/photo7.jpg'
+            image: './image/photo7.jpg'
         },
         {
             text: 'seng nyekel mtsm 3 sbj',
-            image: './images/photo8.jpg'
+            image: './image/photo8.jpg'
         }
     ];
     

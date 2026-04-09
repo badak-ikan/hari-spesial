@@ -320,40 +320,16 @@ function startPhotoShow() {
     if (!photoBtn || !photoDisplay || !progressDiv) return;
     
     // Foto lokal dari folder images
-    const photos = [
-        {
-            text: 'fotbar with rakanda Bintang',
-            image: './image/photo1.jpg'
-        },
-        {
-            text: 'IPM jaya',
-            image: './image/photo2.jpg'
-        },
-        {
-            text: 'anjay pe muncak ta iki',
-            image: './image/photo3.jpg'
-        },
-        {
-            text: 'fotbar keluarga KDI ta iki',
-            image: './image/photo4.jpg'
-        },
-        {
-            text: 'gibah i sopo iku wkwk',
-            image: './image/photo5.jpg'
-        },
-        {
-            text: 'eaaa',
-            image: './image/photo6.jpg'
-        },
-        {
-            text: 'estetik ala ala opo iki',
-            image: './image/photo7.jpg'
-        },
-        {
-            text: 'seng nyekel mtsm 3 sbj',
-            image: './image/photo8.jpg'
-        }
-    ];
+  const photos = [
+    { text: 'fotbar with rakanda Bintang', image: './photo1.jpg' },
+    { text: 'IPM jaya', image: './photo2.jpg' },
+    { text: 'anjay pe muncak ta iki', image: './photo3.jpg' },
+    { text: 'fotbar keluarga KDI ta iki', image: './photo4.jpg' },
+    { text: 'gibah i sopo iku wkwk', image: './photo5.jpg' },
+    { text: 'eaaa', image: './photo6.jpg' },
+    { text: 'estetik ala ala opo iki', image: './photo7.jpg' },
+    { text: 'seng nyekel mtsm 3 sbj', image: './photo8.jpg' }
+];
     
     console.log('Total photos:', photos.length);
     
